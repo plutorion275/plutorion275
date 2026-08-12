@@ -6,11 +6,9 @@ Open to research collaborations and freelance opportunities
 ---
 
 ## 💼 Currently — Bosch Global Software Technologies
-**Student Trainee, Engineering Software Development** · Bangalore · Aug 2026 – May 2027
+**Student Trainee** · Bangalore · Aug 2026 – May 2027
 
-- Building **AI agents** for automotive software engineering workflows, using **RAG** over internal technical documentation
-- Working across a Python-based agent framework and container-deployed SDK tooling
-- Adjacent to automotive sensing (radar) software in a **C/C++** codebase, integrated with Git/Bitbucket + Jenkins CI under V-model process
+Working on applied AI within an automotive software engineering team — building agent-based tooling to support internal engineering workflows. Details are under wrap, but the work sits at the intersection of LLM systems and production embedded software.
 
 ---
 
@@ -77,14 +75,14 @@ Open to research collaborations and freelance opportunities
 
 **Algorithms:** CLRS-based DSA · graph algorithms · MST · shortest path
 
-**Other:** Git/Bitbucket · Jenkins · Linux · ReportLab · R Markdown · Quarto
+**Other:** Git · Linux · ReportLab · R Markdown · Quarto
 
 ---
 
 ## 📚 Learning right now
-- Agentic architectures and retrieval systems for technical/engineering domains
+- Agentic architectures and retrieval systems for technical domains
 - Sensor fusion and state estimation for the thesis work
-- Automotive software processes — ASIL, V-model, requirements engineering
+- Applied computer vision beyond Street Sense
 
 ---
 
