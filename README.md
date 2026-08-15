@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0E0B&height=140&section=header&text=T.%20SAM%20DAVIS&fontSize=42&fontColor=FFB020&fontAlignY=45&desc=DATA%20SCIENCE%20%2F%2F%20MACHINE%20LEARNING%20%2F%2F%20AUTOMOTIVE%20SYSTEMS&descSize=15&descAlignY=68&descColor=7C8B5B&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0E0B&height=140&section=header&text=PLUTORION275&fontSize=42&fontColor=FFB020&fontAlignY=45&desc=DATA%20SCIENCE%20%2F%2F%20MACHINE%20LEARNING%20%2F%2F%20AUTOMOTIVE%20SYSTEMS&descSize=15&descAlignY=68&descColor=7C8B5B&animation=fadeIn" width="100%" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=33FF66&background=0B0E0B&center=true&vCenter=true&width=700&height=50&lines=INITIALIZING+PROFILE...;SYSTEMS%3A+DATA+SCIENCE+%2F%2F+ML+%2F%2F+EMBEDDED;STATUS%3A+OPERATIONAL" alt="typing status" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=33FF66&background=0B0E0B&center=true&vCenter=true&width=740&height=50&lines=INITIALIZING+PROFILE...;SYSTEMS%3A+DATA+SCIENCE+%2F%2F+ML+%2F%2F+EMBEDDED;STATUS%3A+OPERATIONAL" alt="typing status" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-0B0E0B?style=flat-square&labelColor=0B0E0B&color=33FF66" />
   <img src="https://img.shields.io/badge/BASE-CHENNAI%2C_INDIA-0B0E0B?style=flat-square&labelColor=0B0E0B&color=FFB020" />
-  <img src="https://img.shields.io/badge/CURRENT_DEPLOYMENT-BOSCH_GLOBAL_SOFTWARE_TECHNOLOGIES-0B0E0B?style=flat-square&labelColor=0B0E0B&color=FFB020" />
+  <img src="https://img.shields.io/badge/DEPLOYMENT-BOSCH_GST-0B0E0B?style=flat-square&labelColor=0B0E0B&color=FFB020" />
   <img src="https://img.shields.io/badge/CLEARANCE-MSc_DATA_SCIENCE-0B0E0B?style=flat-square&labelColor=0B0E0B&color=7C8B5B" />
 </p>
 
@@ -19,7 +19,7 @@
 
 ```
 $ whoami
-> T. Sam Davis — MSc Data Science, VIT Chennai (2027)
+> plutorion275 — MSc Data Science, VIT Chennai (2027)
 > Building perception & sensing systems: computer vision, sensor fusion, embedded ML
 > Currently deployed: Data Science Intern @ Bosch Global Software Technologies
 > Prior ops: Accenture (churn modeling) · British Airways Data Team (flight KPI dashboards)
