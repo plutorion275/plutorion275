@@ -1,117 +1,99 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0E0B&height=140&section=header&text=PLUTORION275&fontSize=42&fontColor=FFB020&fontAlignY=45&desc=DATA%20SCIENCE%20%2F%2F%20MACHINE%20LEARNING%20%2F%2F%20AUTOMOTIVE%20SYSTEMS&descSize=15&descAlignY=68&descColor=7C8B5B&animation=fadeIn" width="100%" alt="header" />
-</p>
+# Hi, I'm Sam 👋
+MSc Data Science student · Student Trainee @ Bosch Global Software Technologies · India  
+Computer Vision · AI Agents · Machine Learning · Time Series · Sensor Fusion  
+Open to research collaborations and freelance opportunities
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=33FF66&background=0B0E0B&center=true&vCenter=true&width=740&height=50&lines=INITIALIZING+PROFILE...;SYSTEMS%3A+DATA+SCIENCE+%2F%2F+ML+%2F%2F+EMBEDDED;STATUS%3A+OPERATIONAL" alt="typing status" />
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-0B0E0B?style=flat-square&labelColor=0B0E0B&color=33FF66" />
-  <img src="https://img.shields.io/badge/BASE-CHENNAI%2C_INDIA-0B0E0B?style=flat-square&labelColor=0B0E0B&color=FFB020" />
-  <img src="https://img.shields.io/badge/DEPLOYMENT-BOSCH_GST-0B0E0B?style=flat-square&labelColor=0B0E0B&color=FFB020" />
-  <img src="https://img.shields.io/badge/CLEARANCE-MSc_DATA_SCIENCE-0B0E0B?style=flat-square&labelColor=0B0E0B&color=7C8B5B" />
-</p>
+## 💼 Currently — Bosch Global Software Technologies
+**Student Trainee** · Bangalore · Aug 2026 – May 2027
 
-```
-// -----[ FIELD NOTES ]------------------------------------------------- //
-```
+Working on applied AI within an automotive software engineering team — building agent-based tooling to support internal engineering workflows. Details are under wrap, but the work sits at the intersection of LLM systems and production embedded software.
 
-```
-$ whoami
-> plutorion275 — MSc Data Science, VIT Chennai (2027)
-> Building perception & sensing systems: computer vision, sensor fusion, embedded ML
-> Currently deployed: Data Science Intern @ Bosch Global Software Technologies
-> Prior ops: Accenture (churn modeling) · British Airways Data Team (flight KPI dashboards)
-```
+---
 
-```
-// -----[ SYSTEM SCAN ]-------------------------------------------------- //
-```
+## 🔬 Featured Project — RetroSense
+> Self-calibrating IMU framework for retrofit vehicle safety warnings — *MSc thesis, in progress*
 
-<p align="center">
-  <img src="assets/radar-sweep.svg" width="220" alt="radar sweep" />
-</p>
+- Self-calibrates an **arbitrarily mounted IMU** — no fixed orientation or OEM sensor access required
+- Estimates vehicle state by fusing **IMU + GNSS + OBD-II** data streams
+- Aimed at bringing safety-warning capability to vehicles that shipped without it
+- Embedded stack: ESP32, PlatformIO, I2C/SPI
 
-```
-// -----[ ACTIVE DEPLOYMENTS ]-------------------------------------------- //
-```
+**Status:** In development
 
-```
-┌─ STREET SENSE ────────────────────────────────────────────────────────┐
-│ Adaptive YOLOv8 traffic detection system, shipped with a cinematic    │
-│ terminal presentation pipeline — ASCII-safe rendering, live terminal  │
-│ responsiveness.                                                        │
-└──────────────────────────────────────────────────────────────────────┘
-```
+---
 
-<p>
-  <img src="https://img.shields.io/badge/YOLOv8-0B0E0B?style=flat-square&labelColor=0B0E0B&color=FFB020" />
-  <img src="https://img.shields.io/badge/OpenCV-0B0E0B?style=flat-square&labelColor=0B0E0B&color=FFB020" />
-  <img src="https://img.shields.io/badge/Python-0B0E0B?style=flat-square&labelColor=0B0E0B&color=FFB020" />
-</p>
+## 🚦 Street Sense
+> Adaptive real-time traffic detection and analytics system
 
-```
-┌─ RETROSENSE ───────────────────────────────────────────────────────────┐
-│ Self-calibrating IMU framework — retrofit vehicle safety warnings via │
-│ IMU, GNSS, and OBD-II fusion, with no OEM sensor access required.     │
-│ Master's thesis project, in progress.                                  │
-└──────────────────────────────────────────────────────────────────────┘
-```
+- **YOLOv8**-based adaptive vehicle detection across varying traffic conditions
+- End-to-end Python pipeline spanning 15+ libraries
+- Cinematic terminal presentation layer with ASCII-safe rendering and live responsiveness
+- Designed with smart-city and IoT-ready deployment in mind
 
-<p>
-  <img src="https://img.shields.io/badge/Sensor_Fusion-0B0E0B?style=flat-square&labelColor=0B0E0B&color=33FF66" />
-  <img src="https://img.shields.io/badge/Embedded-0B0E0B?style=flat-square&labelColor=0B0E0B&color=33FF66" />
-  <img src="https://img.shields.io/badge/GNSS-0B0E0B?style=flat-square&labelColor=0B0E0B&color=33FF66" />
-</p>
+**Status:** Complete
 
-```
-┌─ THE PEACEKEEPERS' ARMS RACE ───────────────────────────────────────────┐
-│ Multi-source big-data pipeline testing the stability-instability      │
-│ paradox — 6 datasets, 190+ countries, 1946-2024. Panel regression,    │
-│ Granger causality, K-Means clustering with bootstrap validation.      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+---
 
-<p>
-  <img src="https://img.shields.io/badge/R-0B0E0B?style=flat-square&labelColor=0B0E0B&color=7C8B5B" />
-  <img src="https://img.shields.io/badge/Panel_Regression-0B0E0B?style=flat-square&labelColor=0B0E0B&color=7C8B5B" />
-  <img src="https://img.shields.io/badge/Clustering-0B0E0B?style=flat-square&labelColor=0B0E0B&color=7C8B5B" />
-</p>
+## 🕊️ The Peacekeepers' Arms Race
+> Big data analysis of the stability–instability paradox
 
-```
-// -----[ TELEMETRY ]------------------------------------------------------ //
-```
+- Multi-source pipeline: **6 datasets, 190+ countries, 1946–2024**
+- Panel **fixed-effects regression**, **Granger causality**, and **K-Means** clustering
+- Bootstrap and out-of-sample validation for robustness
 
-<!-- the public github-readme-stats instance is best-effort; self-host on Vercel if it ever goes down -->
-<table align="center" border="0">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=plutorion275&show_icons=true&hide_border=true&bg_color=0B0E0B&title_color=FFB020&icon_color=33FF66&text_color=7C8B5B" alt="stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plutorion275&layout=compact&hide_border=true&bg_color=0B0E0B&title_color=FFB020&text_color=7C8B5B&langs_count=8" alt="top languages" /></td>
-  </tr>
-</table>
+**Status:** In progress
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=plutorion275&hide_border=true&background=0B0E0B&stroke=0B0E0B&ring=FFB020&fire=FFB020&currStreakLabel=FFB020&sideLabels=7C8B5B&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7C8B5B" alt="streak stats" />
-</p>
+---
 
-```
-// -----[ TRANSMISSION LOG ]------------------------------------------------ //
-```
+## 🧠 NLP Study Assistant
+> Streamlit app that helps students work through NLP concepts
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/plutorion275/plutorion275/output/github-snake-hud.svg" alt="contribution snake" />
-</p>
+- Built on the **Anthropic API** with prompt engineering for structured, explainable output
+- Covers parsing, tagging, and language-model fundamentals from coursework
 
-```
-// -----[ COMMS ]------------------------------------------------------------ //
-```
+**Status:** In progress
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/plutorion275?style=flat-square&labelColor=0B0E0B&color=FFB020&label=FOLLOW" />
-  <img src="https://komarev.com/ghpvc/?username=plutorion275&color=0B0E0B&style=flat-square&label=SIGNALS+RECEIVED" />
-</p>
+---
 
-<p align="center">
-  <sub>// end of transmission //</sub>
-</p>
+## 🛠️ Skills & Tools
+
+**Languages:** Python · C/C++ · R · SQL
+
+**ML & CV:** Scikit-learn · TensorFlow · Keras · XGBoost · YOLOv8 · K-Means · DBSCAN · PCA
+
+**GenAI:** LLM agents · RAG pipelines · prompt engineering · Streamlit · Anthropic API
+
+**Time Series:** ARIMA · SARIMA · Exponential Smoothing · ADF testing
+
+**Statistics:** Panel regression · Granger causality · bootstrap validation · hypothesis testing · statsmodels
+
+**Embedded & IoT:** ESP32 · Arduino/PlatformIO · I2C/SPI · IMU/GNSS/OBD-II sensor fusion
+
+**Data & Viz:** Pandas · NumPy · Hadoop · Tableau · Power BI · Matplotlib · Seaborn · Plotly · ggplot2
+
+**Algorithms:** CLRS-based DSA · graph algorithms · MST · shortest path
+
+**Other:** Git · Linux · ReportLab · R Markdown · Quarto
+
+---
+
+## 📚 Learning right now
+- Agentic architectures and retrieval systems for technical domains
+- Sensor fusion and state estimation for the thesis work
+- Applied computer vision beyond Street Sense
+
+---
+
+## ✉️ Contact
+- LinkedIn: [www.linkedin.com/in/sam-davis-t](https://www.linkedin.com/in/sam-davis-t)
+- Email: samdavis.t@gmail.com
+
+Open to research collaborations and freelance work in data science, CV, and applied AI.
+
+---
+
+## ⚡ Outside the work
+- 🏍️ Avid rider — bikes, mechanics, and the culture around it
+- 🎥 Video production and general shooting on the side
