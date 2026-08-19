@@ -43,7 +43,7 @@ Working on applied AI within an automotive software engineering team — buildin
 - Panel **fixed-effects regression**, **Granger causality**, and **K-Means** clustering
 - Bootstrap and out-of-sample validation for robustness
 
-**Status:** In progress
+**Status:** Complete
 
 ---
 
@@ -53,7 +53,7 @@ Working on applied AI within an automotive software engineering team — buildin
 - Built on the **Anthropic API** with prompt engineering for structured, explainable output
 - Covers parsing, tagging, and language-model fundamentals from coursework
 
-**Status:** In progress
+**Status:** Complete
 
 ---
 
